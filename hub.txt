@@ -3,8 +3,9 @@ hub one
 hub two  (2 number line)
 
 
+<<<<<<< HEAD
 
 comment by user2
-
-
 comment user1
+comment user2
+
